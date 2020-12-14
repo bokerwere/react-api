@@ -39,7 +39,7 @@ class App extends Component {
         <button type="button" 
           className="btn btn-success"
           onClick={this.getFact}>
-          click to change category!
+          click to change category in card!
         </button>
         </div>
         </div>
