@@ -1,0 +1,12 @@
+body {
+  margin: 15px;
+  background-color: gray;
+}
+.card {
+  font-size: smaller;
+}
+.title {
+  text-align: center;
+  background-color: blueviolet;
+  font-weight: bold;
+}
